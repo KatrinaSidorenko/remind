@@ -1,0 +1,51 @@
+# =========================
+# Visual Studio / .NET
+# =========================
+
+# Build folders
+**/bin/
+**/obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio workspace
+.vs/
+*.VC.db
+*.VC.opendb
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# =========================
+# Environment & secrets
+# =========================
+*.env
+*.env.*
+appsettings.*.json  # if you have environment-specific config
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS-specific files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.temp
+*.bak
+*.backup
