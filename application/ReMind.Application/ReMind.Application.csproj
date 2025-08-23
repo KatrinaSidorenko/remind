@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\domain\ReMind.Domain\ReMind.Domain.csproj" />
-    <ProjectReference Include="..\..\ReMind.Application.Abstractions\ReMind.Application.Abstractions.csproj" />
+    <ProjectReference Include="..\ReMind.Application.Abstractions\ReMind.Application.Abstractions.csproj" />
   </ItemGroup>
 
 </Project>
