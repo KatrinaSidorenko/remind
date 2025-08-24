@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\domain\ReMind.Domain\ReMind.Domain.csproj" />
+    <ProjectReference Include="..\..\infra\persistence\ReMind.Persistence.Abstractions\ReMind.Persistence.Abstractions.csproj" />
     <ProjectReference Include="..\ReMind.Application.Abstractions\ReMind.Application.Abstractions.csproj" />
   </ItemGroup>
 
